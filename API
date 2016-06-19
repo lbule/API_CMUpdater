@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/fxz8nbe217wnq8p/cm_aio_otfp-ota-00ebf6425c_ST5.zip?dl=1",
-    "timestamp": "1458331349",
+    "url": "https://www.dropbox.com/s/fxz8nbe217wnq8p/cm-12.1-20160619-UNOFFICIAL-hermes.zip?dl=1",
+    "timestamp": "1466306395",
     "api_level": "22",
     "md5sum": "ad36ff059c1690e4f83a0a3d29fc9ca7",
-    "filename": "cm_aio_otfp-ota-00ebf6425c_ST5.zip",
+    "filename": "cm-12.1-20160619-UNOFFICIAL-hermes.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/lbule/API_CMUpdater/hermes/CHANGELOG",
-    "incremental": "00ebf6425c"
+    "incremental": "30b4616acb"
     },
   ],
  "error": null
