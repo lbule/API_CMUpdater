@@ -8,7 +8,7 @@
     "md5sum": "ad36ff059c1690e4f83a0a3d29fc9ca7",
     "filename": "cm_aio_otfp-ota-00ebf6425c_ST5.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/Cheshkin/API_CMUpdater/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/lbule/API_CMUpdater/master/CHANGELOG",
     "incremental": "00ebf6425c"
     },
   ],
